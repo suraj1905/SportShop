@@ -1,0 +1,5 @@
+2021-11-17 19:52:40,340 INFO MonitoringLogger - Request = ID: 1,Name: Suraj Sharma, Contact Number: 8901917111, Address: Palpara,City: Kolkata,State: WB,Country: India,Email: suraj@s.com for Add Customer
+2021-11-17 19:57:11,920 INFO MonitoringLogger - Request = Order Number: 1002,Order Date: 11-09-2021 00:00:00, Total Amount: 2999, Size: Cash, Item Id: 101,Customer Id:1 for Place Order
+2021-11-17 20:00:39,147 INFO MonitoringLogger - Request = Order Number: 1003,Order Date: 11-09-2021 00:00:00, Total Amount: 2999, Size: Cash, Item Id: 101,Customer Id:1 for Place Order
+2021-11-17 20:02:38,263 INFO MonitoringLogger - Request = 1 for Get Customer By Id
+2021-11-17 20:03:26,884 INFO MonitoringLogger - Request = name,Suraj for Get Order by name,id,address
